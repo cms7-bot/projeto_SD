@@ -84,6 +84,3 @@ O código utiliza:
 
 ------------------------------------------------------------------------
 
-## 📄 Licença
-
-Projeto acadêmico para fins educacionais.
