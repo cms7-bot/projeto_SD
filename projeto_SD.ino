@@ -25,8 +25,6 @@ const int led2 = 9;
 bool jogoLiberado = false;
 bool vencedor = false;
 bool aguardandoInicio = false;
-bool queimada_jogador1 = false;
-bool queimada_jogador2 = false;
 
 // =======================
 // PLACAR
